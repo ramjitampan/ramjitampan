@@ -4,7 +4,7 @@
 # Hello cees 👻 aku Ramzy Junfaris Hamonangan,
 Programmer, editing video, Graphic Designer, fotografi 
 
-[Profile Picture](path_to_your_profile_image)
+(![kurumi](https://github.com/user-attachments/assets/057ee79d-bc32-4689-b1d2-6ac1f2048f0e)
 
 
 ## About Me
