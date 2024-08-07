@@ -4,8 +4,8 @@
 # Hello cees 👻 aku Ramzy Junfaris Hamonangan,
 Programmer, editing video, Graphic Designer, fotografi 
 
-![Profile Picture](![Uploading kurumi.gif…]()
-)
+[Profile Picture](path_to_your_profile_image)
+
 
 ## About Me
 - 🫠 NAMAKU RAMZY Sang sigma skibi, Aku Kuliah Di Universitas Negri Padang
