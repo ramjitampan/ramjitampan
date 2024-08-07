@@ -1,5 +1,5 @@
-(![RAMZY SANG SKIBIDI](https://github.com/user-attachments/assets/92133555-907e-4022-8859-8958be303329)
-)
+![RAMZY SANG SKIBIDI](https://github.com/user-attachments/assets/92133555-907e-4022-8859-8958be303329)
+
 
 # Hello cees 👻 aku Ramzy Junfaris Hamonangan,
 Programmer, editing video, Graphic Designer, fotografi 
