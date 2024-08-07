@@ -11,7 +11,7 @@ Programmer, editing video, Graphic Designer, fotografi
 - 🫠 NAMAKU RAMZY Sang sigma skibi, Aku Kuliah Di Universitas Negri Padang
 - 🖥️ nah cees aku bisa dalam bahasa pemograman Java scrip, C++, pyton (meskipun sedikit cees😝)
 - ❓ tanya aku tentang *grafis disain, cinematik video dan elemen fotografi insyaallah aku bisa jawab*
-- 🌏 I speak *ID - PDG - ACEH TENGAH - EN*
+- 🌏 BAHASA *ID - PDG - ACEH TENGAH - EN*
 
 ## BAHASA PEMOGRAMAN
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
