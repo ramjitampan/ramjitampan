@@ -49,13 +49,6 @@ I'm a passionate tech enthusiast and creative individual who bridges the gap bet
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramjitampan&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-## 🏆 Top Contributions
-
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ramjitampan&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
-
----
 
 ## 📫 Connect With Me
 
