@@ -1,28 +1,70 @@
-![RAMZY SANG SKIBIDI](https://github.com/user-attachments/assets/92133555-907e-4022-8859-8958be303329)
+# 👋 Hello, I'm Ramzy Junfaris Hamonangan
 
+🎓 **Information Technology Student** at Universitas Negeri Padang  
+💻 **Multidisciplinary Creator** | Programmer, Video Editor, Graphic Designer, Photographer
 
-# Hello cees 👻 aku Ramzy Junfaris Hamonangan,
-Programmer, editing video, Graphic Designer, fotografi 
+![Banner](https://github.com/user-attachments/assets/92133555-907e-4022-8859-8958be303329)
 
-![kurumi](https://github.com/user-attachments/assets/057ee79d-bc32-4689-b1d2-6ac1f2048f0e)
+---
 
-# 💫 About Me:
-🫠 NAMAKU RAMZY Sang sigma skibi, Aku Kuliah Di Universitas Negri Padang<br>🖥️ nah cees aku bisa dalam bahasa pemograman Java scrip, C++, pyton (meskipun sedikit cees😝)<br>❓ tanya aku tentang grafis disain, cinematik video dan elemen fotografi insyaallah aku bisa jawab<br>🌏 BAHASA ID - PDG - ACEH TENGAH - EN
+## 🧑‍💻 About Me
 
+I'm a passionate tech enthusiast and creative individual who bridges the gap between code and visual storytelling. Currently pursuing my degree in Information Technology while continuously expanding my skills across multiple domains.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rara_rajarasis) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/junfarisramji) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@sintax.error.100) 
+- 🎯 **Current Focus**: Web Development & Multimedia Creation
+- 🌱 **Learning**: Advanced JavaScript frameworks and UI/UX principles
+- 💬 **Ask me about**: Graphic Design, Cinematic Video Production, Photography
+- 🌍 **Languages**: Indonesian (Native), English (Intermediate), Minang, Acehnese
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-# EDITOR BERKELAS 🗣️💯💯💯
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ramjitampan&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramjitampan&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramjitampan&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ramjitampan&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+## 🛠️ Tech Stack & Tools
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Creative Suite
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+![Ramzy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramjitampan&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramjitampan&theme=vue-dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramjitampan&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+## 🏆 Top Contributions
+
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ramjitampan&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+
+---
+
+## 📫 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rara_rajarasis)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sintax.error.100)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/junfarisramji)
+
+---
+
+*“Code is poetry, creativity is limitless.”*
+
+![Footer Art](https://github.com/user-attachments/assets/057ee79d-bc32-4689-b1d2-6ac1f2048f0e)
